@@ -1,0 +1,57 @@
+[
+    {
+      "images": ["childrens day.jpg","deepavali.jpg","deepavali.jpg,","childrens day.jpg","deepavali.jpg","deepavali.jpg,","childrens day.jpg","deepavali.jpg","deepavali.jpg,"],
+      "title": "Childrens Day",
+      "message": "Celebrating childhood with joy, laughter, and togetherness!",
+      "description": "Vikas School cherishes every child and their innocence by organizing fun-filled activities on Children's Day."
+    },
+    {
+      "images": ["deepavali.jpg"],
+      "title": "Deepavali",
+      "message": "Lighting up hearts and minds with the spirit of Deepavali!",
+      "description": "Students of Vikas School celebrated the festival of lights spreading happiness, unity, and cultural values."
+    },
+    {
+      "images": ["educational trip.jpg"],
+      "title": "Educational Trip",
+      "message": "Exploring, learning, and creating memories beyond the classroom!",
+      "description": "Vikas School organizes educational trips to encourage experiential learning and exposure to the real world."
+    },
+    {
+      "images": ["fap national award.jpg"],
+      "title": "FAP National Award",
+      "message": "Proud moments of recognition and achievement on a national platform!",
+      "description": "A proud moment for Vikas School as our excellence in education was recognized at the FAP National Awards."
+    },
+    {
+      "images": ["field visit.jpg"],
+      "title": "Field Visit",
+      "message": "Learning through experience — knowledge beyond books!",
+      "description": "Field visits at Vikas School help students connect their classroom knowledge with practical understanding."
+    },
+    {
+      "images": ["independance day.jpg"],
+      "title": "Independence Day",
+      "message": "Honouring our freedom and celebrating the spirit of India!",
+      "description": "Vikas School celebrated Independence Day with great patriotism, remembering our nation's heroes."
+    },
+    {
+      "images": ["indigo day.jpg"],
+      "title": "Indigo Day",
+      "message": "Spreading the vibrant shades of creativity and unity!",
+      "description": "Students at Vikas School celebrated Indigo Day showcasing their creative talents and colorful expressions."
+    },
+    {
+      "images": ["nutrition day.jpg"],
+      "title": "Nutrition Day",
+      "message": "Promoting healthy eating habits for a better tomorrow!",
+      "description": "Vikas School organized Nutrition Day to educate students on the importance of a balanced and healthy diet."
+    },
+    {
+      "images": ["student election council.jpg"],
+      "title": "Student Election Council",
+      "message": "Leadership begins here — inspiring young voices for change!",
+      "description": "Vikas School conducted student council elections to foster leadership, responsibility, and democratic values among students."
+    }
+  ]
+  
